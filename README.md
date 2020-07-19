@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on projects related to Web and Java.
 - 🤔 I’m open to exchange ideas, values and help other to get inspire.
 - 💬 Ask me about Web / Java / Designing / Art
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shaiviganatra/) / [Medium](https://medium.com/@shaiviganatra
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shaiviganatra/) [Medium](https://medium.com/@shaiviganatra
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: No debugger can beat Ctrl + Z !
